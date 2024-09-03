@@ -1,0 +1,43 @@
+[
+    {
+      "video_file": "video1.mp4",
+      "description": "Auto en una carretera de noche, noche lluviosa, ciudad cyberpunk, filmado en 35mm, colores vivos."
+    },
+    {
+      "video_file": "video2.mp4",
+      "description": "Despegue de un avion de pasajero"
+    },
+    {
+      "video_file": "video3.mp4",
+      "description": "Gato estresado se agarra la cabeza mientras grita"
+
+    },
+    {
+      "video_file": "video4.mp4",
+      "description": "Boceto de chica anime caminando"
+    },
+    {
+      "video_file": "video5.mp4",
+      "description": "Chihuahua es bañado en un valde"
+    },
+    {
+      "video_file": "video6.mp4",
+      "description": "Un primer plano de un hombre enviando mensajes de texto en un iPhone 15. El enfoque en el dispositivo muestra su diseño elegante y funciones avanzadas, resaltando la interacción del usuario con la última tecnología."
+    },
+    {
+        "video_file": "video7.mp4",
+        "description": "Una toma en cámara lenta de un hombre andando en patineta."
+    },
+    {
+        "video_file": "video8.mp4",
+        "description": "Una mujer joven se relaja sobre una manta en la playa de arena, tomando sol y bebiendo agua de una botella. La escena muestra un momento de ocio en un día soleado. Perfecta para temas de estilo de vida playero, relajación y actividad junto al mar."
+    },
+    {
+        "video_file": "video9.mp4",
+        "description": "Plano muy largo de un hombre observando el mar mientras está sentado en una playa con enormes rocas."
+    },
+    {
+        "video_file": "video10.mp4",
+        "description": "Toma panorámica de un sendero en la cima de una montaña durante la hora dorada."
+    }
+  ]
